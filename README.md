@@ -1,2 +1,40 @@
 # NewsHut
-A personalized news reader platform for everyone
+> A personalized news reader platform for everyone
+
+
+# Requirements
+- Python 3.8+
+- Django 3.1.7
+- djangorestframework==3.12.2
+- Other's are mentioned in requirements.txt file.
+
+# Project Information
+<p align="left">  
+<img src="https://img.shields.io/badge/Language-Python-brightgreen">
+<img src="https://img.shields.io/badge/Platform-Web-blue">
+<img src="https://img.shields.io/badge/Framework-Django3-blueviolet">
+<img src="https://img.shields.io/badge/Version-1.0-ff69b4">
+
+</p>
+
+
+# Features
+> - Search News About Any Topic.<br>
+> - Search Filters.<br>
+> - Seven News Categories.<br>
+> - Mobile and Destop Friendly.<br>
+> - Select Countries Specific News With Native Language Support.<br>
+> - Signup and Get Personalized News Page.<br>
+> - Customize Content of Your Personalized Page.<br>
+
+
+# Live Preview
+<a href="https://newsreader-web.netlify.app/"><h3>Click Here to Check Live Preview</h3></a>😊
+> - It Might Take Sometime to open the website due to the limited free hosting support.
+> - If you face any problems or found bugs then feel free to contact me.
+
+ 
+ <h3><i>Developer - Navdeep Mishra</i></h3>
+ 
+ 
+
