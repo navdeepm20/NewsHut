@@ -1,5 +1,5 @@
 # NewsHut
-> A personalized news reader platform for everyone
+> NewsReader is a website created to get personalized news experience to its clients. It's not an individual news platform but it's a platform which gathers news from various sources and help you to read news you want. Why googling for a perticular news topic when you have NewsReader. That's the idea behind creating this awesome project and to make news reading more personalized and simple. 
 
 
 # Requirements
