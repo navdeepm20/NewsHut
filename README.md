@@ -5,8 +5,8 @@
 # Requirements
 - Python 3.8+
 - Django 3.1.7
-- djangorestframework==3.12.2
-- Other's are mentioned in requirements.txt file.
+- Django Rest Framework 3.12.2
+
 
 # Project Information
 <p align="left">  
@@ -29,7 +29,7 @@
 
 
 # Live Preview
-<a href="https://newsreader-web.netlify.app/"><h3>Click Here to Check Live Preview</h3></a>😊
+<a href="https://newshut-web.netlify.app/"><h3>Click Here to Check Live Preview</h3></a>😊
 > - It Might Take Sometime to open the website due to the limited free hosting support.
 > - If you face any problems or found bugs then feel free to contact me.
 
