@@ -29,7 +29,7 @@
 
 
 # Live Preview
-<a href="https://newshut-web.netlify.app/"><h3>Click Here to Check Live Preview</h3></a>😊
+[Click Here to Check Live Preview](https://newshut-web.netlify.app) 😊
 > - It Might Take Sometime to open the website due to the limited free hosting support.
 > - If you face any problems or found bugs then feel free to contact me.
 
